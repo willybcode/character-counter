@@ -10,26 +10,20 @@ You just need NodeJs to run this project
 
 To install, simply clone the repo or download it then "npm install"
 
-```
+```bash
 git clone
 cd character-counter
 npm install
 ```
 
 For development run:
+```bash
+npm run dev # you will be able to access it from other devices on your local network as well
 ```
-npm run dev
-```
-or, if you want to be able to access it from other devices on your local network, run:
-
-```
-npm run host
-```
-The command above just runs "vite --host" instead of "vite"
 
 For production
 
-```
+```bash
 npm run build
 ```
 
