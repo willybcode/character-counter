@@ -137,7 +137,7 @@ function App() {
                 <div className="container px-1 py-4 mx-auto flex flex-col">
                 <a
                             href="https://github.com/willybcode/character-counter"
-                            aria-label="Colori GitHub repository"
+                            aria-label="Character counter GitHub repository"
                             target="_blank"
                             rel="noreferrer"
                             class="py-2 px-5 bg-indigo-800 items-center place-self-end justify-center md:mt-4 text-white  leading-none rounded-full gap-4 w-fit   flex"
